@@ -1,0 +1,35 @@
+.Log-in{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    gap: 20px;
+
+}
+.username{
+    display: flex;
+    flex-direction: column;
+}
+.login-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.login-container input{
+    width: 50vw;
+    height: 35px;
+}
+.password{
+    display: flex;
+    flex-direction: column;
+    
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

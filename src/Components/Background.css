@@ -1,0 +1,30 @@
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.background{
+    background-image: url('../assets/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 85%;
+    height: 60vh;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    
+}
+.background a{
+    width: 130px;
+    height: 30px;
+}
+.background button{
+    width: 100%;
+    border-radius: 30px;
+    height: 100%;
+}

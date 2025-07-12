@@ -1,0 +1,14 @@
+.aboutUs{
+    width: 100%;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 85%;
+    gap: 5px;
+}
+.about h2{
+    opacity: 0.8;
+    font: 100;
+}
